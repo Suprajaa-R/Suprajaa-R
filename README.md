@@ -55,16 +55,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Supraja-R&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supraja-R" />
-</p>
-
----
-
 <p align="center">Thanks for visiting my profile! ⭐</p>
