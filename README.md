@@ -15,9 +15,10 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - 🎓 Final-year B.Tech student in Artificial Intelligence and Machine Learning
-- 🌱 Currently exploring Machine Learning, RAG systems, and UI/UX design
+- 🌱 Currently exploring Machine Learning, RAG systems, CV projects.
+- 🎨  Keen interest in graphic design and UI/UX, with hands-on experience creating event branding and promotional creatives.
 - 💡 Passionate about building projects that solve real-world problems
 - 📫 Reach me at: rsupraja05@gmail.com
 
