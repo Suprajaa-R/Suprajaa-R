@@ -3,16 +3,6 @@
 <p align="center">
   Final-year AI & ML student
 </p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/supraja-rangarajan" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rsupraja05@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
