@@ -3,7 +3,6 @@
 <p align="center">
   Final-year AI & ML student
 </p>
----
 
 ### 🚀 About Me
 - 🎓 Final-year B.Tech student in Artificial Intelligence and Machine Learning
