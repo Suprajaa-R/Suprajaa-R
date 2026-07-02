@@ -1,18 +1,18 @@
 <h1 align="center">Hi there, I'm Supraja R 👋</h1>
 
 <p align="center">
-  Final-year AI & ML student | Building intelligent, user-friendly applications
+  Final-year AI & ML student
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/supraja-rangarajan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" style="filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(200deg);" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:rsupraja05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="32" height="32" alt="Gmail" />
   </a>
 </p>
-
 ---
 
 ### About Me
