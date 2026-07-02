@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Supraja R 👋</h1>
+<h1 align="center">Hi there, I'm Supraja R </h1>
 
 <p align="center">
   Final-year AI & ML student
@@ -6,20 +6,20 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/supraja-rangarajan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" style="filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(200deg);" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:rsupraja05@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="32" height="32" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
+
 ---
 
-### About Me
+### 🚀 About Me
 - 🎓 Final-year B.Tech student in Artificial Intelligence and Machine Learning
-- 🌱 Currently exploring Machine Learning, RAG systems, CV projects.
-- 🎨  Keen interest in graphic design and UI/UX, with hands-on experience creating event branding and promotional creatives.
-- 💡 Passionate about building projects that solve real-world problems
+- 🎨 Keen interest in graphic design and UI/UX, with hands-on experience creating event branding and promotional creatives
+- 🌱 Currently exploring Machine Learning, RAG systems, and intuitive interface design
+- 💡 Passionate about building projects that are both intelligent and easy to use
 - 📫 Reach me at: rsupraja05@gmail.com
 
 ---
@@ -56,4 +56,21 @@
 
 ---
 
+### 🌐 Connect With Me via
+
+<p align="left">
+  <a href="https://linkedin.com/in/supraja-rangarajan" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Supraja-R" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rsupraja05@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <p align="center">Thanks for visiting my profile! ⭐</p>
+
