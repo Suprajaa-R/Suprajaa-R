@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi, I'm Supraja R.</h1>
+<h1 align="center">Hi, I'm Supraja R</h1>
 
 <h3 align="center">AI & ML Student | Machine Learning | Generative AI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications;Exploring+Generative+AI+%26+RAG;Learning+and+Building+with+Technology" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications;Turning+Ideas+Into+Projects;Always+Learning+and+Building" />
 </p>
 
 ---
@@ -13,21 +13,21 @@
 
 I'm a final-year Artificial Intelligence and Machine Learning student interested in building intelligent applications and solving real-world problems through technology.
 
-- Interested in Machine Learning, Generative AI and Computer Vision.
-- Exploring RAG systems and Agentic AI.
-- Experienced in AI-powered application and backend development.
-- Interested in Cloud Technologies, Data Engineering and UI/UX.
+- Interested in Machine Learning, Computer Vision and Software Development.
+- Experienced in developing AI-powered applications and backend systems.
+- Interested in Cloud Technologies, Data Engineering and UI/UX design.
+- Always curious to learn, experiment and build meaningful solutions.
 
 ---
 
 ## Core Focus Areas
 
 - **Machine Learning:** Model development, training and evaluation.
-- **Generative AI:** RAG, embeddings and vector databases.
 - **Computer Vision:** Image processing and object detection.
+- **Backend Development:** REST APIs and application development.
 - **Agentic AI:** Multi-agent systems and intelligent automation.
-- **Backend Development:** REST APIs and Flask.
 - **Data & Cloud:** SQL, Snowflake, AWS and Azure.
+- **UI/UX Design:** Designing intuitive and user-friendly interfaces.
 
 ---
 
@@ -39,13 +39,12 @@ I'm a final-year Artificial Intelligence and Machine Learning student interested
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
 </p>
 
-### AI / ML & Generative AI
+### AI / ML & Computer Vision
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge" />
 </p>
 
